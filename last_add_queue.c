@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * addqueue - add node to the tail of stack
+ * add_to_queue - add node to the tail of stack
  * @n: new_value
  * @head: head of the stack
  * Return: no return
